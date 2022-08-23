@@ -1,0 +1,5 @@
+1. verileri çek
+2. verileri birleştirdik -->concat(NOT : Adamlar fonkiyonla yapmıştı bizconcat kullanıdk.)
+3. missing value sayısını bulduk her columndaki
+4. data ön işleme yaptık
+  
