@@ -26,6 +26,10 @@ Wage estimation project of football players based on their characteristics from 
   * DecisionTreeRegressor
   * CatBoostRegressor
   * GradientBoostingRegressor
+* Hyperparameter Optimization
+  * GridSearchCV
+* Model Evaluation
+  * Mean Squared Error
+  * Mean Absolute Error
   
-   
 ![image](https://user-images.githubusercontent.com/108229954/186179491-4aee1660-ce09-4d30-83e1-12dc3ef54303.png)
